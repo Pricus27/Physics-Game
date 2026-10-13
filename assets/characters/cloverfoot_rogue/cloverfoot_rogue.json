@@ -1,0 +1,1915 @@
+{
+  "frames": [
+    {
+      "filename": "idle_00",
+      "animation": "idle",
+      "index": 0,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 167,
+      "bounds": [
+        34,
+        42,
+        94,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "idle_01",
+      "animation": "idle",
+      "index": 1,
+      "frame": {
+        "x": 128,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 166,
+      "bounds": [
+        34,
+        43,
+        94,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "idle_02",
+      "animation": "idle",
+      "index": 2,
+      "frame": {
+        "x": 256,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 167,
+      "bounds": [
+        34,
+        42,
+        93,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "idle_03",
+      "animation": "idle",
+      "index": 3,
+      "frame": {
+        "x": 384,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 167,
+      "bounds": [
+        33,
+        42,
+        95,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "idle_04",
+      "animation": "idle",
+      "index": 4,
+      "frame": {
+        "x": 512,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 166,
+      "bounds": [
+        33,
+        41,
+        94,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "idle_05",
+      "animation": "idle",
+      "index": 5,
+      "frame": {
+        "x": 640,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 167,
+      "bounds": [
+        34,
+        41,
+        93,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "walk_00",
+      "animation": "walk",
+      "index": 0,
+      "frame": {
+        "x": 0,
+        "y": 128,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 167,
+      "bounds": [
+        34,
+        45,
+        96,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "walk_01",
+      "animation": "walk",
+      "index": 1,
+      "frame": {
+        "x": 128,
+        "y": 128,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 166,
+      "bounds": [
+        34,
+        45,
+        95,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "walk_02",
+      "animation": "walk",
+      "index": 2,
+      "frame": {
+        "x": 256,
+        "y": 128,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 167,
+      "bounds": [
+        33,
+        44,
+        94,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "walk_03",
+      "animation": "walk",
+      "index": 3,
+      "frame": {
+        "x": 384,
+        "y": 128,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 167,
+      "bounds": [
+        33,
+        45,
+        94,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "walk_04",
+      "animation": "walk",
+      "index": 4,
+      "frame": {
+        "x": 512,
+        "y": 128,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 166,
+      "bounds": [
+        33,
+        45,
+        94,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "walk_05",
+      "animation": "walk",
+      "index": 5,
+      "frame": {
+        "x": 640,
+        "y": 128,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 167,
+      "bounds": [
+        34,
+        44,
+        95,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "run_00",
+      "animation": "run",
+      "index": 0,
+      "frame": {
+        "x": 0,
+        "y": 256,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 117,
+      "bounds": [
+        34,
+        47,
+        98,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "run_01",
+      "animation": "run",
+      "index": 1,
+      "frame": {
+        "x": 128,
+        "y": 256,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 116,
+      "bounds": [
+        33,
+        48,
+        98,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "run_02",
+      "animation": "run",
+      "index": 2,
+      "frame": {
+        "x": 256,
+        "y": 256,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 117,
+      "bounds": [
+        32,
+        44,
+        96,
+        110
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "run_03",
+      "animation": "run",
+      "index": 3,
+      "frame": {
+        "x": 384,
+        "y": 256,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 117,
+      "bounds": [
+        32,
+        47,
+        95,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "run_04",
+      "animation": "run",
+      "index": 4,
+      "frame": {
+        "x": 512,
+        "y": 256,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 116,
+      "bounds": [
+        32,
+        48,
+        96,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "run_05",
+      "animation": "run",
+      "index": 5,
+      "frame": {
+        "x": 640,
+        "y": 256,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 117,
+      "bounds": [
+        33,
+        44,
+        97,
+        110
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "jump_00",
+      "animation": "jump",
+      "index": 0,
+      "frame": {
+        "x": 0,
+        "y": 384,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 125,
+      "bounds": [
+        29,
+        42,
+        98,
+        111
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "jump_01",
+      "animation": "jump",
+      "index": 1,
+      "frame": {
+        "x": 128,
+        "y": 384,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 125,
+      "bounds": [
+        33,
+        26,
+        95,
+        103
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "jump_02",
+      "animation": "jump",
+      "index": 2,
+      "frame": {
+        "x": 256,
+        "y": 384,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 125,
+      "bounds": [
+        33,
+        15,
+        95,
+        84
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "jump_03",
+      "animation": "jump",
+      "index": 3,
+      "frame": {
+        "x": 384,
+        "y": 384,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 125,
+      "bounds": [
+        29,
+        12,
+        98,
+        80
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "jump_04",
+      "animation": "jump",
+      "index": 4,
+      "frame": {
+        "x": 512,
+        "y": 384,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 125,
+      "bounds": [
+        29,
+        32,
+        98,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "jump_05",
+      "animation": "jump",
+      "index": 5,
+      "frame": {
+        "x": 640,
+        "y": 384,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 125,
+      "bounds": [
+        28,
+        46,
+        100,
+        110
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "dodge_00",
+      "animation": "dodge",
+      "index": 0,
+      "frame": {
+        "x": 0,
+        "y": 512,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 83,
+      "bounds": [
+        32,
+        39,
+        96,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "dodge_01",
+      "animation": "dodge",
+      "index": 1,
+      "frame": {
+        "x": 128,
+        "y": 512,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 84,
+      "bounds": [
+        30,
+        53,
+        98,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "dodge_02",
+      "animation": "dodge",
+      "index": 2,
+      "frame": {
+        "x": 256,
+        "y": 512,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 83,
+      "bounds": [
+        24,
+        53,
+        103,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "dodge_03",
+      "animation": "dodge",
+      "index": 3,
+      "frame": {
+        "x": 384,
+        "y": 512,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 83,
+      "bounds": [
+        30,
+        58,
+        97,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "dodge_04",
+      "animation": "dodge",
+      "index": 4,
+      "frame": {
+        "x": 512,
+        "y": 512,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 84,
+      "bounds": [
+        31,
+        42,
+        96,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "dodge_05",
+      "animation": "dodge",
+      "index": 5,
+      "frame": {
+        "x": 640,
+        "y": 512,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 83,
+      "bounds": [
+        32,
+        39,
+        95,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "attack_00",
+      "animation": "attack",
+      "index": 0,
+      "frame": {
+        "x": 0,
+        "y": 640,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 100,
+      "bounds": [
+        32,
+        37,
+        95,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "attack_01",
+      "animation": "attack",
+      "index": 1,
+      "frame": {
+        "x": 128,
+        "y": 640,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 100,
+      "bounds": [
+        17,
+        40,
+        110,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "attack_02",
+      "animation": "attack",
+      "index": 2,
+      "frame": {
+        "x": 256,
+        "y": 640,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 100,
+      "bounds": [
+        19,
+        39,
+        109,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "attack_03",
+      "animation": "attack",
+      "index": 3,
+      "frame": {
+        "x": 384,
+        "y": 640,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 100,
+      "bounds": [
+        29,
+        40,
+        99,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "attack_04",
+      "animation": "attack",
+      "index": 4,
+      "frame": {
+        "x": 512,
+        "y": 640,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 100,
+      "bounds": [
+        30,
+        39,
+        97,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "attack_05",
+      "animation": "attack",
+      "index": 5,
+      "frame": {
+        "x": 640,
+        "y": 640,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 100,
+      "bounds": [
+        32,
+        39,
+        95,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "special_00",
+      "animation": "special",
+      "index": 0,
+      "frame": {
+        "x": 0,
+        "y": 768,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 150,
+      "bounds": [
+        31,
+        39,
+        96,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "special_01",
+      "animation": "special",
+      "index": 1,
+      "frame": {
+        "x": 128,
+        "y": 768,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 150,
+      "bounds": [
+        30,
+        52,
+        97,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "special_02",
+      "animation": "special",
+      "index": 2,
+      "frame": {
+        "x": 256,
+        "y": 768,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 150,
+      "bounds": [
+        22,
+        58,
+        106,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "special_03",
+      "animation": "special",
+      "index": 3,
+      "frame": {
+        "x": 384,
+        "y": 768,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 150,
+      "bounds": [
+        21,
+        62,
+        107,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "special_04",
+      "animation": "special",
+      "index": 4,
+      "frame": {
+        "x": 512,
+        "y": 768,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 150,
+      "bounds": [
+        32,
+        43,
+        95,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "special_05",
+      "animation": "special",
+      "index": 5,
+      "frame": {
+        "x": 640,
+        "y": 768,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 150,
+      "bounds": [
+        32,
+        39,
+        95,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "hurt_00",
+      "animation": "hurt",
+      "index": 0,
+      "frame": {
+        "x": 0,
+        "y": 896,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 67,
+      "bounds": [
+        31,
+        37,
+        97,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "hurt_01",
+      "animation": "hurt",
+      "index": 1,
+      "frame": {
+        "x": 128,
+        "y": 896,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 66,
+      "bounds": [
+        32,
+        35,
+        95,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "hurt_02",
+      "animation": "hurt",
+      "index": 2,
+      "frame": {
+        "x": 256,
+        "y": 896,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 67,
+      "bounds": [
+        37,
+        37,
+        90,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "hurt_03",
+      "animation": "hurt",
+      "index": 3,
+      "frame": {
+        "x": 384,
+        "y": 896,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 67,
+      "bounds": [
+        36,
+        46,
+        91,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "hurt_04",
+      "animation": "hurt",
+      "index": 4,
+      "frame": {
+        "x": 512,
+        "y": 896,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 66,
+      "bounds": [
+        36,
+        38,
+        91,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "hurt_05",
+      "animation": "hurt",
+      "index": 5,
+      "frame": {
+        "x": 640,
+        "y": 896,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 67,
+      "bounds": [
+        31,
+        36,
+        96,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "death_00",
+      "animation": "death",
+      "index": 0,
+      "frame": {
+        "x": 0,
+        "y": 1024,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 167,
+      "bounds": [
+        31,
+        32,
+        96,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "death_01",
+      "animation": "death",
+      "index": 1,
+      "frame": {
+        "x": 128,
+        "y": 1024,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 166,
+      "bounds": [
+        32,
+        46,
+        96,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "death_02",
+      "animation": "death",
+      "index": 2,
+      "frame": {
+        "x": 256,
+        "y": 1024,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 167,
+      "bounds": [
+        26,
+        55,
+        101,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "death_03",
+      "animation": "death",
+      "index": 3,
+      "frame": {
+        "x": 384,
+        "y": 1024,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 167,
+      "bounds": [
+        21,
+        77,
+        106,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "death_04",
+      "animation": "death",
+      "index": 4,
+      "frame": {
+        "x": 512,
+        "y": 1024,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 166,
+      "bounds": [
+        22,
+        82,
+        105,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    },
+    {
+      "filename": "death_05",
+      "animation": "death",
+      "index": 5,
+      "frame": {
+        "x": 640,
+        "y": 1024,
+        "w": 128,
+        "h": 128
+      },
+      "duration": 167,
+      "bounds": [
+        24,
+        80,
+        104,
+        112
+      ],
+      "pivot": [
+        64,
+        112
+      ],
+      "rotated": false,
+      "trimmed": false,
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      }
+    }
+  ],
+  "meta": {
+    "app": "Embercrest Champions",
+    "image": "cloverfoot_rogue_right.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 768,
+      "h": 1152
+    },
+    "scale": "1",
+    "frameTags": [
+      {
+        "name": "idle",
+        "from": 0,
+        "to": 5,
+        "direction": "forward",
+        "repeat": 0
+      },
+      {
+        "name": "walk",
+        "from": 6,
+        "to": 11,
+        "direction": "forward",
+        "repeat": 0
+      },
+      {
+        "name": "run",
+        "from": 12,
+        "to": 17,
+        "direction": "forward",
+        "repeat": 0
+      },
+      {
+        "name": "jump",
+        "from": 18,
+        "to": 23,
+        "direction": "forward",
+        "repeat": 1
+      },
+      {
+        "name": "dodge",
+        "from": 24,
+        "to": 29,
+        "direction": "forward",
+        "repeat": 1
+      },
+      {
+        "name": "attack",
+        "from": 30,
+        "to": 35,
+        "direction": "forward",
+        "repeat": 1
+      },
+      {
+        "name": "special",
+        "from": 36,
+        "to": 41,
+        "direction": "forward",
+        "repeat": 1
+      },
+      {
+        "name": "hurt",
+        "from": 42,
+        "to": 47,
+        "direction": "forward",
+        "repeat": 1
+      },
+      {
+        "name": "death",
+        "from": 48,
+        "to": 53,
+        "direction": "forward",
+        "repeat": 1
+      }
+    ]
+  }
+}
